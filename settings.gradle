@@ -1,0 +1,2 @@
+rootProject.name = "Fragments Interface"
+include ':app'
